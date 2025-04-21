@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Elearning sesi 5</string>
+    <string name="pick_date">Pilih Tanggal</string>
+    <string name="pick_time">Pilih Waktu</string>
+    <string name="date_not_selected">Tanggal belum dipilih</string>
+    <string name="time_not_selected">Waktu belum dipilih</string>
+    <string name="confirm_dialog_title">Konfirmasi</string>
+    <string name="confirm_dialog_message">Apakah kamu yakin dengan tanggal dan waktu yang dipilih?</string>
+    <string name="yes">Yakin</string>
+    <string name="no">Batal</string>
+    <string name="confirmed">Tanggal dan waktu sudah dikonfirmasi!</string>
+    <string name="not_confirmed">Silakan ubah tanggal atau waktu.</string>
+</resources>
